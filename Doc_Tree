@@ -1,0 +1,23 @@
+docs/
+├── PRODUCTS.md               # Detailed product lines, modules, and capabilities
+├── ARCHITECTURE.md           # System architecture diagrams, Graphviz + PNG references
+├── BLACKBOX_API.md           # API spec, endpoints, request/response examples
+├── CONTROLLER_AI_CHIP.md     # Neuromorphic flight controller specs
+├── WARP_OS.md                # OS architecture, agent structure, compatibility
+├── ZiETAIBER_FRAMEWORK.md    # Universal math toolkit, algorithms, examples
+├── ALGORITHMS.md             # Core algorithms: swarm, predictive flight, cognitive graphs
+├── README.md                 # Optional: overview of docs, navigation links
+
+# SkyBrain AI Documentation
+
+Welcome to the SkyBrain AI technical documentation. This folder contains detailed descriptions, specs, and architecture for all products and systems.
+
+## Contents
+
+- [PRODUCTS.md](PRODUCTS.md) – Product lines and features
+- [ARCHITECTURE.md](ARCHITECTURE.md) – System diagrams and architecture
+- [BLACKBOX_API.md](BLACKBOX_API.md) – API specifications
+- [CONTROLLER_AI_CHIP.md](CONTROLLER_AI_CHIP.md) – Flight controller specifications
+- [WARP_OS.md](WARP_OS.md) – Operating system and agent structures
+- [ZiETAIBER_FRAMEWORK.md](ZiETAIBER_FRAMEWORK.md) – Math and algorithm framework
+- [ALGORITHMS.md](ALGORITHMS.md) – Core AI and swarm algorithms
